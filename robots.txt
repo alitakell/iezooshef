@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ioshaifohp.lacytammy.com/sitemap.xml
